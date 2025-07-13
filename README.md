@@ -1,1 +1,1 @@
-# rsschool-react-course-tasks
+# rsschool-react-course
