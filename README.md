@@ -1,1 +1,1 @@
-# rsschool-react-course
+# React 2025 Q3
